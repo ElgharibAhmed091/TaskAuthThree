@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "h4HNzmTmhcfCI8mH4xas59EjxP4+QVkJhJy0zsN+llc=",
+  "Source": "AuthTaskJwt",
+  "BasePath": "_content/AuthTaskJwt",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
